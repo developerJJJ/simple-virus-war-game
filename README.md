@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# simple-virus-war-game
+
+Simple virus war game to test Deep learning model
